@@ -8,7 +8,11 @@ No single word or structure causes the problem. Readers notice the pattern forme
 
 The aim is stronger scholarship, not cosmetic humanization. A credible paper defines its problem precisely, explains what was done, reports what was observed, separates evidence from interpretation, and limits each claim to what the study supports.
 
-The maintained Markdown version is available in the [Making Research Papers Sound Less AI-Written repository](https://github.com/sultanul-ovi/making-research-papers-sound-less-ai-written). Copy the `.md` file into a project and provide it to an AI assistant as standing writing guidance, or ask the assistant to use it as a revision filter when reviewing a draft. For a quick pass, use the Daily AI Instructions. For a thorough revision, use the full guide and its prompt library.
+> **Use this guide in your project**
+>
+> [Open the GitHub repository](https://github.com/sultanul-ovi/making-research-papers-sound-less-ai-written)
+>
+> Copy the Markdown file into a project and provide it to an AI assistant as standing writing guidance, or use it as a revision filter when reviewing a draft. For a quick pass, use the Daily AI Instructions. For a thorough revision, use the full guide and its prompt library.
 
 This document works in three ways:
 
