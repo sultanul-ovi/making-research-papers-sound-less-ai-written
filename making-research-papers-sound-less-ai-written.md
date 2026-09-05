@@ -1,13 +1,6 @@
----
-title: "Making Research Papers Sound Less AI-Written"
-author: "Md Sultanul Islam Ovi"
-description: "A practical guide to clear, evidence-led, and less formulaic research paper writing."
-date: 2026-09-05
-slug: making-research-papers-sound-less-ai-written
-tags: [academic-writing, research-writing, editing, ai-assisted-writing]
----
-
 # Making Research Papers Sound Less AI-Written
+
+By Md Sultanul Islam Ovi
 
 AI-assisted research writing often feels artificial because predictable choices accumulate. The introduction announces that a topic is important. The related-work section lists studies without comparing them. The method section uses polished abstractions instead of operational detail. The results section repeats numbers, and the discussion inflates modest findings into broad claims.
 
