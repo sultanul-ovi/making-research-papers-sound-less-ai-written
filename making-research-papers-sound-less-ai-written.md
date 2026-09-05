@@ -139,9 +139,7 @@ Weak examples:
 - "The model does not merely learn patterns; it understands structure."
 - "The question is not whether the method works, but why it works so well."
 
-Better:
-
-Hypothetical example:
+Better hypothetical example:
 
 > Median task-completion time fell from 14.2 minutes to 10.8 minutes, while the error rate remained close to 3%.
 
@@ -193,7 +191,7 @@ Signs of sentence stacking:
 - The paragraph lacks voice or perspective.
 - The writing feels dense despite using short sentences.
 
-Hypothetical example:
+Hypothetical before-and-after pair:
 
 Stacked version:
 
@@ -343,9 +341,7 @@ Weak example:
 
 > We thank the reviewer for this insightful and valuable comment, which has greatly improved our paper.
 
-Better:
-
-Hypothetical example:
+Better hypothetical example:
 
 > We added a sensitivity analysis in Section 4.3 and now report how the estimated effect changes across three threshold choices.
 
@@ -479,9 +475,7 @@ Weak example:
 
 > The shorter completion time proves that the visualization helped participants understand the task more effectively.
 
-Better:
-
-Hypothetical example:
+Better hypothetical example:
 
 > Participants using the visualization completed the task 2.4 minutes faster on average. Because assignment was not randomized, the result establishes an association, not a causal effect.
 
@@ -958,6 +952,7 @@ Prefer the verb that states the actual operation. For example, replace "leverage
 - hence
 - herein
 - heretofore
+- however, when used as a filler transition
 - importantly
 - in brief
 - in conclusion
